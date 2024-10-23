@@ -142,15 +142,16 @@ tick/
 │   ├── services/      # API and business logic
 │   ├── types/         # TypeScript definitions
 │   └── utils/         # Helper functions
-├── assets/           # Images, fonts, etc.
-└── tests/            # Test files
+├── assets/            # Images, fonts, etc.
+└── __tests__/         # Test files
+|
 ```
 
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
 
-1. Fork the repository
+1. Clone the repository
 2. Create a feature branch:
 
 ```bash
