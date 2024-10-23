@@ -20,6 +20,7 @@ Tick is a mobile application designed to help tech enthusiasts master technical 
   - [🤝 Contributing](#-contributing)
     - [Coding Standards](#coding-standards)
   - [👥 Contributors](#-contributors)
+    - [Core Team](#core-team)
   - [❓ Troubleshooting](#-troubleshooting)
     - [Common Issues](#common-issues)
     - [Getting Help](#getting-help)
@@ -183,31 +184,11 @@ git push origin feature/amazing-feature
 
 Thank you to all our amazing contributors who have helped make Tick possible!
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/geller99.png">
-        <img src="/api/placeholder/100/100" width="100px;" alt="Geller"/>
-        <br />
-        <sub><b>Geller</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mustafajamis.png">
-        <img src="" width="100px;" alt="Mustafa Jamshidi"/>
-        <br />
-        <sub><b>Mustafa Jamshidi</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/boyepanthera.png">
-        <img src="/api/placeholder/100/100" width="100px;" alt="Olanrewaju A. Olaboye"/>
-        <br />
-        <sub><b>Olanrewaju A. Olaboye</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
+### Core Team
+
+- [Geller](https://github.com/geller99)
+- [Mustafa Jamshidi](https://github.com/mustafajamis)
+- [Olanrewaju A. Olaboye](https://github.com/boyepanthera)
 
 ## ❓ Troubleshooting
 
