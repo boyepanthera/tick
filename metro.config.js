@@ -6,6 +6,20 @@ const {getDefaultConfig, mergeConfig} = require('@react-native/metro-config');
  *
  * @type {import('metro-config').MetroConfig}
  */
-const config = {};
+const config = {
+  resolver: {
+    sourceExts: ['jsx', 'js', 'ts', 'tsx', 'json'],
+    resolverMainFields: ['sbmodern', 'react-native', 'browser', 'main'],
+  },
+  transformer: {
+    getTransformOptions: async () => ({
+      transform: {
+        experimentalImportSupport: false,
+        inlineRequires: true,
+      },
+    }),
+  },
+  watchFolders: ['.'],
+};
 
 module.exports = mergeConfig(getDefaultConfig(__dirname), config);
